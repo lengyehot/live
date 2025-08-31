@@ -11,6 +11,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+	    {
+            "key": "杏吧资源",
+            "name": "杏吧资源",
+            "type": 0,
+            "api": "https://xingba222.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "香奶儿",
             "name": "香奶儿",
